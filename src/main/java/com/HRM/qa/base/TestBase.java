@@ -65,6 +65,7 @@ public class TestBase {
 		
 		driver.get(prop.getProperty("url"));
 		Thread.sleep(5000);
+		Thread.sleep(5000);
 		
 	}
 	
