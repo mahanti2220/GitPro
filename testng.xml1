@@ -2,7 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="FREE HRM Application Test Automation Test Suite">
 
-	
+
+
 
 	<test name="HRM Test Cases">
 		<classes>
